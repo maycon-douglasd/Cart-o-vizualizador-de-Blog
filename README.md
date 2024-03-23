@@ -11,3 +11,11 @@
  <img aling= "center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
  <img aling= "center" alt="HTML" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+<br><br>
+<h3>Desktop</h3>
+
+<img src="https://github.com/maycon-douglasd/Cart-o-vizualizador-de-Blog/blob/main/images/desktop.png?raw=true" width="550px"/>
+
+<h3>Mobile</h3>
+
+<img src="https://github.com/maycon-douglasd/Cart-o-vizualizador-de-Blog/blob/main/images/mobile.png?raw=true" width="700px"/>
