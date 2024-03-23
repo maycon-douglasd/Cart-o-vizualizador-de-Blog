@@ -1,0 +1,74 @@
+body {
+    background-color: var(--primary-yellow);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 0 25px;   
+}
+
+.cartao {
+    width: 330px;
+    height: 428px;
+    background-color: var(--neutral-white);
+    border-radius: 15px;    
+    padding: 15px;
+    box-shadow: 6px 6px black;
+    border: 1px solid;
+}
+
+.imagens {
+    border-radius: 10px;
+    width: 100%;
+    margin: 5px auto;
+    display: block;
+    
+}
+
+.aprendizado {
+    background-color: var(--primary-yellow);
+    border-radius: 5px;
+    border: none;
+    width: 80px;
+    height: 25px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 15px;
+    font-style: italic;
+    color: var(--neutral-black);
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+ .paragrafo-01 {
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 20px;
+    font-style: normal;
+    display: inline;
+    color: var(--neutral-black);  
+    cursor: pointer;  
+}
+
+h1:hover {
+    color: var(--primary-yellow);
+}
+
+.paragrafo-02 {
+    font-weight: 600;
+    font-size: 12px;
+    color: var(--neutral-grey);
+    margin-top: 15px;
+    letter-spacing: 1px;
+    display: inline-block
+}
+
